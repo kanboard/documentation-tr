@@ -5,7 +5,7 @@ Kanboard ücretsiz ve açık kaynak kodlu bir Kanban proje yönetim yazılımıd
 
 - Resmi internet sitesi: https://kanboard.org
 - Hata İzleyici: https://github.com/kanboard/kanboard/issues
-- Forum: https://github.com/kanboard/forum/issues
+- Forum: https://kanboard.discourse.group/
 - RSS Feed: https://github.com/kanboard/kanboard/releases.atom
 - Mastodon: https://mastodon.social/@kanboard
 - IRC: #kanboard on Freenode
