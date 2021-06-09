@@ -8,7 +8,6 @@ Kanboard ücretsiz ve açık kaynak kodlu bir Kanban proje yönetim yazılımıd
 - Forum: https://kanboard.discourse.group/
 - RSS Feed: https://github.com/kanboard/kanboard/releases.atom
 - Mastodon: https://mastodon.social/@kanboard
-- IRC: #kanboard on Freenode
 
 .. toctree::
     :maxdepth: 1
